@@ -7,6 +7,7 @@ import Header from './components/header/header'
 import Footer from './components/footer/footer'
 import Hero from './components/hero/hero'
 import Pricing from './components/pricing/pricing'
+import Blog from './components/blogs/blogs'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
     <Header/>
     <Hero/>
     <Pricing/>
+    <Blog/>
     <Footer/>
     </div>
     </React.Fragment>

@@ -14,7 +14,7 @@ function App() {
   return (
     <React.Fragment>
       <div className='min-h-screen '>
-    <Header/>
+    <Header number={"My First Porn Website"}/>
     <Hero/>
     <Pricing/>
     <Blog/>
